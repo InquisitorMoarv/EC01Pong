@@ -1,0 +1,45 @@
+Initialize engine version: 5.3.3f1 (910d71450a97)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4000 (ID=0x166)
+    Vendor:   Intel
+    VRAM:     912 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Uni\8tes Semester (So 16)\Entermaiment Computing\EC01Pong - Kopie\PongMarvinLange_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Uni\8tes Semester (So 16)\Entermaiment Computing\EC01Pong - Kopie\PongMarvinLange_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Uni\8tes Semester (So 16)\Entermaiment Computing\EC01Pong - Kopie\PongMarvinLange_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Uni\8tes Semester (So 16)\Entermaiment Computing\EC01Pong - Kopie\PongMarvinLange_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Uni\8tes Semester (So 16)\Entermaiment Computing\EC01Pong - Kopie\PongMarvinLange_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Uni\8tes Semester (So 16)\Entermaiment Computing\EC01Pong - Kopie\PongMarvinLange_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Uni\8tes Semester (So 16)\Entermaiment Computing\EC01Pong - Kopie\PongMarvinLange_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Uni\8tes Semester (So 16)\Entermaiment Computing\EC01Pong - Kopie\PongMarvinLange_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.052 seconds
+Platform assembly: C:\Uni\8tes Semester (So 16)\Entermaiment Computing\EC01Pong - Kopie\PongMarvinLange_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Uni\8tes Semester (So 16)\Entermaiment Computing\EC01Pong - Kopie\PongMarvinLange_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 50Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.578845 ms
+ArgumentException: The thing you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at BallManager.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 4b0 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.578262 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 294.
+Total: 0.277106 ms (FindLiveObjects: 0.019294 ms CreateObjectMapping: 0.014368 ms MarkObjects: 0.156821 ms  DeleteObjects: 0.085389 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.481960 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 336.
+Total: 0.256580 ms (FindLiveObjects: 0.050084 ms CreateObjectMapping: 0.020936 ms MarkObjects: 0.177758 ms  DeleteObjects: 0.006978 ms)
+
